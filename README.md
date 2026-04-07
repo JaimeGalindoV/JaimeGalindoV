@@ -57,7 +57,7 @@ I am a **Computer Systems Engineering** student (8th Semester) at **ITESO**. My 
 
 ## 📫 Connect with me
 * 💼 [LinkedIn](https://www.linkedin.com/in/jaime-galindo-b69989264/) 
-* 📧 [jaimeenriquegalindo.villegas@gmail.com](mailto:jaimeenriquegalindo.villegas@gmail.com) 
+* 📧 [contact@jaimegv.dev](mailto:contact@jaimegv.dev) 
 * 📞 [Phone] (+52 33 4008 5961)
 * 📍 Guadalajara, Mexico 
 
